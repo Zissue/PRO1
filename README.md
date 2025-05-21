@@ -1,4 +1,4 @@
-# PRO1 Programming Problems Solutions
+# PRO1 - Programming Problems & Solutions
 
 ## Introduction
 This repository contains a collection of C++ solutions for programming problems, from the PRO1 (Programming 1) course at UPC FIB.
