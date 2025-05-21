@@ -1,7 +1,7 @@
-# PRO1 - Programming Problems & Solutions
+# PRO1 Programming Problems Solutions
 
 ## Introduction
-This repository contains a collection of C++ solutions for programming problems, from the PRO1 (Programming 1) course at UPC FIB.
+This repository contains a collection of C++ solutions for programming problems, likely from the PRO1 course at UPC FIB.
 
 ## Folder Structure
 *   `pro1/S<number>/`: Contains solutions for problems from different sessions (e.g., `S7`, `S8`).
@@ -26,5 +26,5 @@ These are student solutions submitted for various assignments and exams. While t
 ## Demo Program
 
 A simple demo program (`p1-norm.cc` from session S7) is available in the `demo` directory.
-It includes a sample input file and a `README_DEMO.md` with specific instructions on how to compile and run it.
+It includes a sample input file and its own [README_DEMO.md](demo/README_DEMO.md) with specific instructions on how to compile and run it.
 This can serve as a quick example of how to work with the programs in this repository.
