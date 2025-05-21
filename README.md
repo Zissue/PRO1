@@ -1,7 +1,7 @@
-# PRO1 Programming Problems Solutions
+# PRO1 Programming Problems & Solutions
 
 ## Introduction
-This repository contains a collection of C++ solutions for programming problems, likely from the PRO1 course at UPC FIB.
+This repository contains a collection of C++ solutions for programming problems, from the PRO1 course at UPC FIB.
 
 ## Folder Structure
 *   `pro1/S<number>/`: Contains solutions for problems from different sessions (e.g., `S7`, `S8`).
