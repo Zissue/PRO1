@@ -19,7 +19,7 @@ Work with prime numbers - checking primality or generating primes.
 
 ## Solution
 
-The solution is implemented in `re.cc`.
+The solution is implemented in `p55307.cc`.
 
 ---
 
