@@ -20,7 +20,7 @@ Process input data according to specific algorithmic requirements.
 
 ## Solution
 
-The solution is implemented in `x40141.cc`.
+The solution is implemented in `x50141.cc`.
 
 ---
 
