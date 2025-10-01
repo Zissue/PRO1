@@ -1,0 +1,43 @@
+# Compiled executables
+*.x
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Core dumps
+core
+core.*
+
+# Editor backups and temporary files
+*~
+*.swp
+*.swo
+*.swn
+.*.sw?
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Build directories
+build/
+bin/
+obj/
+
+# Debugging files
+*.dSYM/
+*.su
