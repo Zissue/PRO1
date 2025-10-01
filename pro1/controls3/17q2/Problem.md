@@ -25,7 +25,7 @@ Process input data according to specific algorithmic requirements.
 
 ## Solution
 
-The solution is implemented in `28036.cc`.
+The solution is implemented in `17q2.cc`.
 
 ---
 
