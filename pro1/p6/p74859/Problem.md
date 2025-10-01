@@ -20,7 +20,7 @@ Process input data according to specific algorithmic requirements.
 
 ## Solution
 
-The solution is implemented in `resu.cc`.
+The solution is implemented in `p74859.cc`.
 
 ---
 
