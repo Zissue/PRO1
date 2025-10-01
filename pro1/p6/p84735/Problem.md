@@ -20,7 +20,7 @@ Process input data according to specific algorithmic requirements.
 
 ## Solution
 
-The solution is implemented in `p84735xd.cc`.
+The solution is implemented in `p84735.cc`.
 
 ---
 
