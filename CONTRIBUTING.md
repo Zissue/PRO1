@@ -22,6 +22,7 @@ Thank you for contributing to this collection of PRO1 programming solutions!
    ```
    pro1/p7/x41120/
    ├── x41120.cc          (main solution)
+   ├── Problem.md         (problem description)
    └── sample-1.inp       (optional test input)
    ```
 
@@ -64,7 +65,12 @@ The `.gitignore` file automatically excludes these, but please verify:
    ./problem_name.x < sample_input.inp
    ```
 
-2. **Remove executables:**
+2. **Create/update Problem.md:**
+   - Describe what the problem asks for
+   - Include input/output format
+   - Reference the official Jutge.org problem if available
+
+3. **Remove executables:**
    ```bash
    # They will be ignored by .gitignore, but don't force-add them
    rm *.x *.o

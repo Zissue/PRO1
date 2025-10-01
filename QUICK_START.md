@@ -9,6 +9,9 @@ Quick reference for working with the PRO1 repository.
 # Navigate to the problem directory
 cd pro1/p7/x41120/
 
+# Read the problem description
+cat Problem.md
+
 # View the solution
 cat x41120.cc
 ```
@@ -50,6 +53,8 @@ rm x41120.x
    cd pro1/p7/
    mkdir p12345
    cd p12345
+   # Create problem description
+   vim Problem.md
    # Create your solution file
    vim p12345.cc
    ```

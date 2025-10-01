@@ -64,6 +64,15 @@ Many problems expect input from standard input and produce output to standard ou
 ### Sample Input Files
 Some problem directories contain sample input files (`.dat` or `.inp` files) for testing your solutions.
 
+### Problem Statements
+Each problem directory includes a `Problem.md` file with:
+- A reverse-engineered description of what the problem asks for
+- Input/output format specifications
+- Algorithmic approach hints
+- Reference to the official Jutge.org problem statement
+
+**Note:** These problem descriptions are inferred from the solution code and may not be exact. For official problem statements, please refer to [Jutge.org](https://jutge.org/).
+
 ## Disclaimer
 These are student solutions submitted for various assignments and exams. While they aim to be correct, they might not always represent the most optimal or polished approach. Use them as a reference or for learning purposes.
 
