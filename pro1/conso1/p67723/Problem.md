@@ -19,7 +19,7 @@ Calculate and output factorial values.
 
 ## Solution
 
-The solution is implemented in `factorial.cc`.
+The solution is implemented in `p67723.cc`.
 
 ---
 
